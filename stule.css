@@ -1,0 +1,47 @@
+body{
+    background-image: url(39f260e8e79143e6aea90fb6eb1428bd-goods.avif);
+    background-position: center;
+    background-repeat: none;
+
+}
+form {
+    background-color: #8d75a3bd;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 400px;
+    margin: auto;
+    margin-top: 15%;
+    padding:40px ;
+    font-size: 15px;
+
+
+
+}
+input,button
+{
+    height: 40px;
+
+}
+span{
+    color:rgb(12, 1, 1);
+}
+button {
+    background-color: rgb(232, 20, 229);
+    border: none;
+    color:rgb(18, 0, 18);
+   
+}
+.btns {
+   display: flex;
+   gap: 10px;
+   align-items: center;
+
+}
+.btns button {
+    width: 50%;
+}
+a{
+    margin: auto;
+    color: rgb(9, 9, 9);
+}
